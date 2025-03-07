@@ -4,8 +4,6 @@ This repository contains a complete infrastructure automation solution for deplo
 
 ## System Architecture
 
-![System Architecture](https://via.placeholder.com/800x400?text=Infrastructure+Automation+Architecture)
-
 The automation system consists of:
 
 - **Terraform** for infrastructure as code
